@@ -1,0 +1,240 @@
+[
+    {
+        "id": 1,
+        "title":{
+            "ar":"مقدمة في إدارة الأعمال",
+            "en":"Introduction to Business Management"
+        },
+        "category_id": 1,
+        "subtitle":{
+            "ar":"تعلم أساسيات إدارة الأعمال بما في ذلك الاستراتيجية والعمليات والقيادة.",
+            "en":"Learn the fundamentals of managing a business, including strategy, operations, and leadership."
+        },
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "title":{
+            "ar":"استراتيجيات التسويق الرقمي",
+            "en":"Digital Marketing Strategies"
+        },
+        "category_id": 2,
+        "subtitle":{
+            "ar":"فهم المكونات الرئيسية لحملات التسويق الرقمي الناجحة.",
+            "en":"Understand the key components of successful digital marketing campaigns."
+        },
+        "price": 59.99
+    },
+    {
+        "id": 3,
+        "title":{
+            "ar":"برمجة بايثون للمبتدئين",
+            "en":"Python Programming for Beginners"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"ابدأ رحلتك في البرمجة من خلال تعلم بايثون، واحدة من أكثر اللغات مرونة.",
+            "en":"Start your programming journey by learning Python, one of the most versatile languages."
+        },
+        "price": 39.99
+    },
+    {
+        "id": 4,
+        "title_en": "Graphic Design Fundamentals",
+        "title_ar": "أساسيات التصميم الجرافيكي",
+        "title":{
+            "ar":"أساسيات التصميم الجرافيكي",
+            "en":"Graphic Design Fundamentals"
+        },
+        "category_id": 4,
+        "subtitle":{
+            "ar":"اتقن أساسيات التصميم الجرافيكي باستخدام أدوات مثل Photoshop وIllustrator.",
+            "en":"Master the basics of graphic design using tools like Photoshop and Illustrator."
+        },
+        "price": 45.99
+    },
+    {
+        "id": 5,
+        "title":{
+            "ar":"علم البيانات مع بايثون",
+            "en":"Data Science with Python"
+        },
+        "category_id": 5,
+        "subtitle":{
+            "ar":"تعلم كيفية تحليل البيانات باستخدام بايثون، بما في ذلك مكتبات مثل Pandas وNumPy.",
+            "en":"Learn how to analyze data using Python, including libraries like Pandas and NumPy."
+        },
+        "price": 65.99
+    },
+    {
+        "id": 6,
+        "title_en": "Financial Accounting for Beginners",
+        "title_ar": "المحاسبة المالية للمبتدئين",
+        "title":{
+            "ar":"المحاسبة المالية للمبتدئين",
+            "en":"Financial Accounting for Beginners"
+        },
+        "category_id": 6,
+        "subtitle":{
+            "ar":"تعلم أساسيات المحاسبة المالية، بما في ذلك الميزانيات العمومية وقوائم الدخل.",
+            "en":"Learn the fundamentals of financial accounting, including balance sheets and income statements."
+        },
+        "price": 50.99
+    },
+    {
+        "id": 7,
+        "title":{
+            "ar":"الصحة واللياقة لحياة أفضل",
+            "en":"Health & Fitness for a Better Life"
+        },
+        "category_id": 7,
+        "subtitle":{
+            "ar":"احصل على لياقة بدنية محسّنة وصحة أفضل من خلال هذه الروتينات السهلة.",
+            "en":"Get in shape and improve your health with these easy-to-follow fitness routines."
+        },
+        "price": 29.99
+    },
+    {
+        "id": 8,
+        "title":{
+            "ar":"إتقان التنمية الشخصية",
+            "en":"Mastering Personal Development"
+        },
+        "category_id": 8,
+        "subtitle":{
+            "ar":"اكتشف إمكاناتك الكاملة من خلال إتقان إدارة الوقت وتحديد الأهداف والتحفيز الذاتي.",
+            "en":"Unlock your full potential by mastering time management, goal setting, and self-motivation."
+        },
+        "price": 42.99
+    },
+    {
+        "id": 9,
+        "title":{
+            "ar":"أساسيات التصوير: من مبتدئ إلى محترف",
+            "en":"Photography Basics: From Beginner to Pro"
+        },
+        "category_id": 9,
+        "subtitle":{
+            "ar":"تعلم أساسيات التصوير، من إعدادات الكاميرا إلى تقنيات الإضاءة.",
+            "en":"Learn the essentials of photography, from camera settings to lighting techniques."
+        },
+        "price": 55.99
+    },
+    {
+        "id": 10,
+        "title":{
+            "ar":"نظرية الموسيقى والتأليف",
+            "en":"Music Theory and Composition"
+        },
+        "category_id": 10,
+        "subtitle":{
+            "ar":"افهم نظرية الموسيقى وتعلم كيفية تأليف أغانيك الخاصة.",
+            "en":"Understand music theory and learn how to compose your own songs."
+        },
+        "price": 99.99
+    },
+    {
+        "id": 11,
+        "title":{
+            "ar":"تطوير تطبيقات الويب بواسطة React",
+            "en":"Web Development with React"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"ابنِ تطبيقات الويب الديناميكية باستخدام React، إطار عمل JavaScript الشهير.",
+            "en":"Build dynamic web applications using React, the popular JavaScript framework."
+        },
+        "price": 75.99
+    },
+    {
+        "id": 12,
+        "title":{
+            "ar":"تطوير تطبيقات الهواتف المحمولة بواسطة Flutter",
+            "en":"Mobile Development with Flutter"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"انشئ تطبيقات محمولة جميلة ومتعددة المنصات باستخدام Flutter، إطار عمل تطوير تطبيقات مفتوح المصدر.",
+            "en":"Create beautiful, cross-platform mobile apps using Flutter, an open-source app development framework."
+        },
+        "price": 69.99
+    },
+    {
+        "id": 13,
+        "title":{
+            "ar":"نظم الزمن الحقيقي: من الأساسيات إلى التطبيقات",
+            "en":"Real-Time Systems: From Basics to Applications"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"اكتشف كيفية تصميم وتطوير نظم الزمن الحقيقي باستخدام أنواع مختلفة من الأجهزة.",
+            "en":"Learn how to design and develop real-time systems using different types of devices."
+        },
+        "price": 79.99
+    },
+    {
+        "id": 14,
+        "title":{
+            "ar":"محاكاة الحاسوب: من النظرية إلى التطبيقات",
+            "en":"Computer Simulation: From Theory to Applications"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"استكشف كيفية استخدام المحاكاة لتحليل وتصميم الأنظمة الحاسوبية المعقدة.",
+            "en":"Explore how to use simulation to analyze and design complex computer systems."
+        },
+        "price": 89.99
+    },
+    {
+        "id": 15,
+        "title":{
+            "ar":"تحليل البيانات الكبيرة: من الأساسيات إلى التطبيقات",
+            "en":"Big Data Analytics: From Basics to Applications"
+        },
+        "category_id": 5,
+        "subtitle":{
+            "ar":"اكتشف كيفية تحليل واستخدام البيانات الكبيرة للحصول على رؤى قيمة.",
+            "en":"Discover how to analyze and use big data to gain valuable insights."
+        },
+        "price": 69.99
+    },
+    {
+        "id": 16,
+        "title":{
+            "ar":"التعلم العميق: من النظرية إلى التطبيقات",
+            "en":"Deep Learning: From Theory to Applications"
+        },
+        "category_id": 5,
+        "subtitle":{
+            "ar":"استكشف كيفية تطبيق تقنيات التعلم العميق على مجموعة متنوعة من المشكلات.",
+            "en":"Explore how to apply deep learning techniques to a variety of problems."
+        },
+        "price": 79.99
+    },
+    {
+        "id": 17,
+        "title":{
+            "ar":"الحوسبة الكمومية: من النظرية إلى التطبيقات",
+            "en":"Quantum Computing: From Theory to Applications"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"اكتشف كيف يمكن للحوسبة الكمومية تحقيق تقدم كبير في مجالات مثل التشفير والذكاء الاصطناعي.",
+            "en":"Discover how quantum computing can make significant advancements in areas like encryption and artificial intelligence."
+        },
+        "price": 99.99
+    },
+    {
+        "id": 18,
+        "title":{
+            "ar":"رؤية الحاسوب: من النظرية إلى التطبيقات",
+            "en":"Computer Vision: From Theory to Applications"
+        },
+        "category_id": 3,
+        "subtitle":{
+            "ar":"استكشف كيفية تطبيق تقنيات رؤية الحاسوب على مجموعة متنوعة من التطبيقات العملية.",
+            "en":"Explore how to apply computer vision techniques to a variety of practical applications."
+        },
+        "price": 89.99
+    }
+]

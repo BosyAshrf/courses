@@ -1,0 +1,1 @@
+<link rel="icon" type="image/x-icon" href="{{ url('storage/' . nova_get_setting('site_logo')) }}">

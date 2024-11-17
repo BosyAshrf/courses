@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "email": "admin@example.com",
+        "password": "password",
+        "type": "admin",
+        "is_superadmin": true
+    },
+    {
+        "id": 2,
+        "name": "Admin 2",
+        "email": "admin2@example.com",
+        "type": "admin",
+        "password": "password"
+    },
+    {
+        "id": 3,
+        "name": "Admin 3",
+        "email": "admin3@example.com",
+        "type": "admin",
+        "password": "password"
+    },
+    {
+        "id": 4,
+        "name": "Admin 4",
+        "email": "admin4@example.com",
+        "type": "admin",
+        "password": "password"
+    },
+    {
+        "id": 5,
+        "name": "Admin 5",
+        "email": "admin5@example.com",
+        "type": "admin",
+        "password": "password"
+    },
+    {
+        "id": 6,
+        "name": "Expert 1",
+        "email": "expert1@gmail.com",
+        "type": "expert",
+        "password": "password",
+        "phone_number": "1234567880",
+        "category_id": 1,
+        "image": "assets/images/experts/1.png",
+        "bio": "I am an expert in business and marketing with over 10 years of experience.",
+        "years_of_experience": 3.5,
+        "cv_file": "assets/cv.pdf"
+    },
+    {
+        "id": 7,
+        "name": "Expert 2",
+        "email": "expert2@gmail.com",
+        "type": "expert",
+        "password": "password",
+        "phone_number": "1234567800",
+        "category_id": 2,
+        "image": "assets/images/experts/2.png",
+        "bio": "I am an expert in programming with over 5 years of experience.",
+        "years_of_experience": 5,
+        "cv_file": "assets/cv.pdf"
+    },
+    {
+        "id": 8,
+        "name": "Expert 3",
+        "email": "expert3@gmail.com",
+        "type": "expert",
+        "password": "password",
+        "phone_number": "1234567890",
+        "category_id": 3,
+        "image": "assets/images/experts/3.png",
+        "bio": "I am an expert in design with over 7 years of experience.",
+        "years_of_experience": 7,
+        "cv_file": "assets/cv.pdf"
+    },
+    {
+        "id": 9,
+        "name": "Expert 4",
+        "email": "expert4@gmail.com",
+        "type": "expert",
+        "password": "password",
+        "phone_number": "1234567890",
+        "category_id": 4,
+        "image": "assets/images/experts/4.png",
+        "bio": "I am an expert in data science with over 4 years of experience.",
+        "years_of_experience": 4,
+        "cv_file": "assets/cv.pdf"
+    },
+
+    {
+        "id": 10,
+        "name": "Expert 5",
+        "email": "expert5@gmail.com",
+        "type": "expert",
+        "password": "password",
+        "phone_number": "1234567890",
+        "category_id": 5,
+        "image": "assets/images/experts/5.png",
+        "bio": "I am an expert in finance with over 6 years of experience.",
+        "years_of_experience": 6,
+        "cv_file": "assets/cv.pdf"
+    }
+]

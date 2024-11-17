@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Introduction to Digital Marketing",
+            "ar": "مقدمة في التسويق الرقمي"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 15,
+        "size": 250,
+        "section_id": 1,
+        "course_id": 1
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Understanding Social Media Platforms",
+            "ar": "فهم منصات وسائل التواصل الاجتماعي"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 20,
+        "size": 300,
+        "section_id": 2,
+        "course_id": 2
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "SEO Basics for Beginners",
+            "ar": "أساسيات تحسين محركات البحث للمبتدئين"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 18,
+        "size": 270,
+        "section_id": 4,
+        "course_id":4
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Creating Effective Email Campaigns",
+            "ar": "إنشاء حملات بريد إلكتروني فعالة"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 25,
+        "size": 320,
+        "section_id": 5,
+        "course_id":5
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Content Strategy and Creation",
+            "ar": "استراتيجية المحتوى وإنشاؤه"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 22,
+        "size": 310,
+        "section_id": 3,
+        "course_id": 3
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Advanced SEO Techniques",
+            "ar": "تقنيات تحسين محركات البحث المتقدمة"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 30,
+        "size": 350,
+        "section_id": 4,
+        "course_id": 4
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Email Marketing Analytics",
+            "ar": "تحليلات التسويق عبر البريد الإلكتروني"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 28,
+        "size": 340,
+        "section_id": 5,
+        "course_id": 5
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Content Marketing Strategies",
+            "ar": "استراتيجيات تسويق المحتوى"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 26,
+        "size": 330,
+        "section_id": 3,
+        "course_id": 3
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Social Media Advertising",
+            "ar": "الإعلان عبر وسائل التواصل الاجتماعي"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 32,
+        "size": 360,
+        "section_id": 2,
+        "course_id": 2
+    },
+    {
+        "id": 10,
+        "name": {
+            "en": "Digital Marketing Trends",
+            "ar": "اتجاهات التسويق الرقمي"
+        },
+        "video": "assets/images/lessons/lesson.mp4",
+        "duration": 35,
+        "size": 370,
+        "section_id": 1,
+        "course_id": 1
+    }
+]
+

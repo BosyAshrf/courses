@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "ar": "الأعمال",
+            "en": "Business"
+        },
+        "image":"assets/images/categories/4.svg"
+
+    },
+    {
+        "id": 2,
+        "name": {
+            "ar": "التسويق",
+            "en": "Marketing"
+        },
+        "image":"assets/images/categories/4.svg"
+    },
+    {
+        "id": 3,
+        "name": {
+            "ar": "البرمجة",
+            "en": "Programming"
+        },
+        "image":"assets/images/categories/1.svg"
+    },
+    {
+        "id": 4,
+        "name": {
+            "ar": "التصميم",
+            "en": "Design"
+        },
+        "image":"assets/images/categories/3.svg"
+    },
+    {
+        "id": 5,
+        "name": {
+            "ar": "علم البيانات",
+            "en": "Data Science"
+        },
+        "image":"assets/images/categories/5.svg"
+    },
+    {
+        "id": 6,
+        "name": {
+            "ar": "المالية",
+            "en": "Finance"
+        },
+        "image":"assets/images/categories/2.svg"
+    },
+    {
+        "id": 7,
+        "name": {
+            "ar": "الصحة واللياقة",
+            "en": "Health & Fitness"
+        },
+        "image":"assets/images/categories/8.svg"
+    },
+    {
+        "id": 8,
+        "name": {
+            "ar": "التنمية الشخصية",
+            "en": "Personal Development"
+        },
+        "image":"assets/images/categories/7.svg"
+    },
+    {
+        "id": 9,
+        "name": {
+            "ar": "التصوير",
+            "en": "Photography"
+        },
+        "image":"assets/images/categories/6.svg"
+    },
+    {
+        "id": 10,
+        "name": {
+            "ar": "الموسيقى",
+            "en": "Music"
+        },
+        "image":"assets/images/categories/9.svg"
+    }
+]

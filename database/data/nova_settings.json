@@ -1,0 +1,419 @@
+[
+    {
+        "key": "site_name_ar",
+        "value": "يثرى"
+    },
+    {
+        "key": "site_name_en",
+        "value": "Yuthri"
+    },
+    {
+        "key": "site_description_ar",
+        "value": "هذا النص هو مثال لنص يمكن استبداله في نفس المساحة"
+    },
+    {
+        "key": "site_description_en",
+        "value": "هذا النص هو مثال لنص يمكن استبداله في نفس المساحة"
+    },
+    {
+        "key": "site_keywords_ar",
+        "value": "يثرى"
+    },
+    {
+        "key": "site_keywords_en",
+        "value": "Yuthri"
+    },
+    {
+        "key": "home_header_title_ar",
+        "value": "قم بتنمية مهاراتك للتقدم في مسارك المهني"
+    },
+    {
+        "key": "home_header_title_en",
+        "value": "Develop your skills to advance in your career path"
+    },
+    {
+        "key": "home_header_desc_ar",
+        "value": "تعليم وإلهام وتحويل الفتيات الصغيرات: مدرسة إعدادية خاصة مجانية"
+    },
+    {
+        "key": "home_header_desc_en",
+        "value": "Educate, inspire and empower"
+    },
+    {
+        "key":"students_count",
+        "value":"306 +k"
+    },
+    {
+        "key": "contact_title_ar",
+        "value": "تواصل معنا"
+    },
+    {
+        "key": "contact_title_en",
+        "value": "Contact Us"
+    },
+    {
+        "key": "contact_desc_ar",
+        "value": "معلومات عن تواصل معنا"
+    },
+    {
+        "key": "contact_desc_en",
+        "value": "Contact Us Description"
+    },
+    {
+        "key": "about_us_title_ar",
+        "value": "نحن نقدم أفضل الدورات التدريبية عالية الجودة عبر الإنترنت. جميع المدربين لدينا هم من ذوي الخبرة العالية"
+    },
+
+    {
+        "key": "about_us_title_en",
+        "value": "We provide the best quality online courses. All our trainers are highly experienced."
+    },
+    {
+        "key": "home_about_us_title_ar",
+        "value": "نحن نجعل تعلمك تجربة ممتعة ومثمرة."
+    },
+    {
+        "key":"home_about_us_desc_ar",
+        "value":"استكشف عالمًا من المعرفة من خلال تصفح دوراتنا المتنوعة، والتي يمكنك فرزها حسب الفئة، والمستوى، والسعر، والمدرّس، والمدة."
+    },
+    {
+        "key":"home_about_us_desc_en",
+        "value":"Explore a world of knowledge by browsing our diverse courses, which you can sort by category, level, price, teacher, and duration."
+    },
+    {
+        "key": "home_about_us_title_en",
+        "value": "We make your learning experience fun and rewarding."
+    },
+    {
+        "key": "about_us_main_title_ar",
+        "value": "يثري في سطور"
+    },
+
+    {
+        "key": "about_us_main_title_en",
+        "value": "Yuthri in a nutshell"
+    },
+    {
+        "key": "about_us_desc_ar",
+        "value": "استكشف عالمًا من المعرفة من خلال تصفح دوراتنا المتنوعة، والتي يمكنك فرزها حسب الفئة، والمستوى، والسعر، والمدرّس، والمدة."
+    },
+    {
+        "key": "about_us_desc_en",
+        "value": "Explore a world of knowledge by browsing our diverse courses, which you can sort by category, level, price, teacher, and duration."
+    },
+    {
+        "key": "category_main_title_ar",
+        "value": "استكشف جميع الأقسام"
+    },
+    {
+        "key": "category_main_title_en",
+        "value": "Explore all sections"
+    },
+    {
+        "key": "category_desc_ar",
+        "value": "عرض مفصل لكل فئة، مع شرح مختصر لما تقدمه، وأهم الدورات المتاحة في هذه الفئة."
+    },
+    {
+        "key": "category_desc_en",
+        "value": "A detailed presentation of each category, with a brief explanation of what it offers, and the most important courses available in this category."
+    },
+    {
+        "key": "about_us_content_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+
+    {
+        "key": "about_us_content_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+
+    {
+        "key": "courses_title_ar",
+        "value": "دوراتنا الاكثر شعبية"
+    },
+    {
+        "key": "courses_title_en",
+        "value": "Our Most Popular Courses"
+    },
+    {
+        "key": "courses_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+
+    {
+        "key": "courses_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "experts_title_ar",
+        "value": "تعرف علي خبراءنا الخبراء"
+    },
+    {
+        "key": "experts_title_en",
+        "value": "Meet Our Experts"
+    },
+    {
+        "key": "experts_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+
+    {
+        "key": "experts_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+
+    {
+        "key": "contact_location_ar",
+        "value": "المدينة - الدولة"
+    },
+    {
+        "key": "contact_location_en",
+        "value": null
+    },
+    {
+        "key": "contact_number_en",
+        "value": "Phone Number"
+    },
+    {
+        "key": "contact_email_en",
+        "value": "Email"
+    },
+
+    {
+        "key": "address_ar",
+        "value": "العنوان"
+    },
+    {
+        "key": "address_en",
+        "value": "Address"
+    },
+    {
+        "key": "Advertisements_title_ar",
+        "value": "احصل علي عضوية مجانية وعروض علي الدورات"
+    },
+    {
+        "key": "Advertisements_title_en",
+        "value": "Get a free membership and offers on courses"
+    },
+    {
+        "key": "Advertisements_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "Advertisements_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "terms_title_ar",
+        "value": "الشروط و الأحكام"
+    },
+    {
+        "key": "terms_title_en",
+        "value": "Terms and Conditions"
+    },
+    {
+        "key": "terms_desc_ar",
+        "value": "يرجى قراءة شروط الخدمة هذه بعناية قبل استخدام تطبيقنا الذي نديره"
+    },
+    {
+        "key": "terms_desc_en",
+        "value": "Please read these Terms of Service carefully before using our managed application"
+    },
+    {
+        "key": "privacy_title_ar",
+        "value": "سياسة الخصوصية"
+    },
+    {
+        "key": "privacy_title_en",
+        "value": "Privacy Policy"
+    },
+    {
+        "key": "privacy_desc_ar",
+        "value": "اتطلع علي سياسة الخصوصية و الامان"
+    },
+    {
+        "key": "privacy_desc_en",
+        "value": "See the privacy and security policy"
+    },
+    {
+        "key": "work_hours_ar",
+        "value": "الأثنين - الخميس : 10:00AM - 04:00AM\r\nالأحد :  10:00AM - 04:00AM\r\nالجمعة : مغلق"
+    },
+    {
+        "key": "work_hours_en",
+        "value": "Monday - Thursday: 10:00AM - 04:00AM\r\nSunday: 10:00AM - 04:00AM\r\nFriday: Closed"
+    },
+    {
+        "key": "study_plan_desc_ar",
+        "value": "خطة الدراسة"
+    },
+    {
+        "key": "study_plan_desc_en",
+        "value": "Study Plan"
+    },
+    {
+        "key": "about_first_section_title_ar",
+        "value": "ابحث في الدورات المميزة"
+    },
+    {
+        "key": "about_first_section_title_en",
+        "value": "Search for Featured Courses"
+    },
+    {
+        "key": "about_first_section_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "about_first_section_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+
+    {
+        "key": "first_card_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "first_card_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "first_card_title_ar",
+        "value": "تواصل معنا من أي مكان"
+    },
+    {
+        "key": "first_card_title_en",
+        "value": "Contact Us From Anywhere"
+    },
+    {
+        "key": "second_card_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "second_card_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "second_card_title_ar",
+        "value": "خبراء ذوي خبرة وبداع"
+    },
+    {
+        "key": "second_card_title_en",
+        "value": "Experienced and Creative Experts"
+    },
+    {
+        "key": "third_card_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "third_card_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "third_card_title_ar",
+        "value": "دعم مباشر على مدار 24 ساعة "
+    },
+    {
+        "key": "third_card_title_en",
+        "value": "24/7 Live Support"
+    },
+    {
+        "key": "contact_address_ar",
+        "value": "السعودية, الرياض"
+    },
+    {
+        "key": "contact_address_en",
+        "value": "Saudi Arabia, Riyadh"
+    },
+    {
+        "key": "contact_phone",
+        "value": "00966555555555\r\n00966555555556"
+    },
+    {
+        "key": "contact_email",
+        "value": "support@info.com\r\nmail@info.com"
+    },
+    {
+        "key": "contact_lat",
+        "value": "24.7136"
+    },
+    {
+        "key": "contact_lng",
+        "value": "46.6753"
+    },
+    {
+        "key":"linkedin_link",
+        "value":"https://www.linkedin.com/"
+    },
+    {
+        "key":"x_link",
+        "value":"https://x.com"
+    },
+    {
+        "key":"facebook_link",
+        "value":"https://www.facebook.com/"
+    },
+    {
+        "key": "testimonials_title_ar",
+        "value": "ما يقوله العملاء عنا"
+    },
+    {
+        "key":"testimonials_title_en",
+        "value":"What our customers say about us"
+    },
+    {
+        "key": "testimonials_desc_ar",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key": "testimonials_desc_en",
+        "value": "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+    },
+    {
+        "key":"happy_students_count",
+        "value":"+16k"
+    },
+    {
+        "key":"partners_title_ar",
+        "value":"موثوق به من قبل أكثر من 4000 شركة"
+    },
+    {
+        "key":"partners_title_en",
+        "value":"Trusted by over 4000 companies"
+    },
+    {
+        "key":"insta_link",
+        "value":"https://www.instagram.com/"
+    },
+    {
+        "key": "about_details_en",
+        "value": "Expert trainer\r\nTraining Services\r\nLifetime access\r\nGreat experience"
+    },
+    {
+        "key": "about_details_ar",
+        "value": "مدرب خبير\r\nخدمات التدريب\r\nالوصول مدى الحياة\r\nتجربة كبيرة"
+    },
+    {
+        "key":"join_us_title_ar",
+        "value": "انضم الى اكبر مجتمع للتعلم"
+    },
+    {
+        "key":"join_us_title_en",
+       "value":"Join the largest learning community"
+    },
+    {
+        "key":"join_us_desc_ar",
+        "value": "انضم إلى مجتمعنا الآن للحصول على الوصول إلى الدورات التدريبية المجانية والمدفوعة"
+    },
+    {
+        "key":"join_us_desc_en",
+        "value":"Join our community now to access free and paid training courses"
+    },
+    {
+        "key":"Enable_Tax",
+        "value":"true"
+    },
+    {
+        "key": "tax",
+        "value": "10"
+    }
+]

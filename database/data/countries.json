@@ -1,0 +1,1754 @@
+[
+    {
+        "name": "Afghanistan",
+        "name_ar": "أفغانستان",
+        "phone_code": "+93",
+        "currency": "AFN",
+        "iso2": "AF",
+        "flag": "🇦🇫"
+    },
+    {
+        "name": "Albania",
+        "name_ar": "ألبانيا",
+        "phone_code": "+355",
+        "currency": "ALL",
+        "iso2": "AL",
+        "flag": "🇦🇱"
+    },
+    {
+        "name": "Algeria",
+        "name_ar": "الجزائر",
+        "phone_code": "+213",
+        "currency": "DZD",
+        "iso2": "DZ",
+        "flag": "🇩🇿"
+    },
+    {
+        "name": "Andorra",
+        "name_ar": "أندورا",
+        "phone_code": "+376",
+        "currency": "EUR",
+        "iso2": "AD",
+        "flag": "🇦🇩"
+    },
+    {
+        "name": "Angola",
+        "name_ar": "أنغولا",
+        "phone_code": "+244",
+        "currency": "AOA",
+        "iso2": "AO",
+        "flag": "🇦🇴"
+    },
+    {
+        "name": "Anguilla",
+        "name_ar": "أنغويلا",
+        "phone_code": "+1264",
+        "currency": "XCD",
+        "iso2": "AI",
+        "flag": "🇦🇮"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "name_ar": "أنتيغوا وبربودا",
+        "phone_code": "+1268",
+        "currency": "XCD",
+        "iso2": "AG",
+        "flag": "🇦🇬"
+    },
+    {
+        "name": "Argentina",
+        "name_ar": "الأرجنتين",
+        "phone_code": "+54",
+        "currency": "ARS",
+        "iso2": "AR",
+        "flag": "🇦🇷"
+    },
+    {
+        "name": "Armenia",
+        "name_ar": "أرمينيا",
+        "phone_code": "+374",
+        "currency": "AMD",
+        "iso2": "AM",
+        "flag": "🇦🇲"
+    },
+    {
+        "name": "Aruba",
+        "name_ar": "أروبا",
+        "phone_code": "+297",
+        "currency": "AWG",
+        "iso2": "AW",
+        "flag": "🇦🇼"
+    },
+    {
+        "name": "Australia",
+        "name_ar": "أستراليا",
+        "phone_code": "+61",
+        "currency": "AUD",
+        "iso2": "AU",
+        "flag": "🇦🇺"
+    },
+    {
+        "name": "Austria",
+        "name_ar": "النمسا",
+        "phone_code": "+43",
+        "currency": "EUR",
+        "iso2": "AT",
+        "flag": "🇦🇹"
+    },
+    {
+        "name": "Azerbaijan",
+        "name_ar": "أذربيجان",
+        "phone_code": "+994",
+        "currency": "AZN",
+        "iso2": "AZ",
+        "flag": "🇦🇿"
+    },
+    {
+        "name": "Bahamas",
+        "name_ar": "جزر البهاما",
+        "phone_code": "+1242",
+        "currency": "BSD",
+        "iso2": "BS",
+        "flag": "🇧🇸"
+    },
+    {
+        "name": "Bahrain",
+        "name_ar": "البحرين",
+        "phone_code": "+973",
+        "currency": "BHD",
+        "iso2": "BH",
+        "flag": "🇧🇭"
+    },
+    {
+        "name": "Bangladesh",
+        "name_ar": "بنجلاديش",
+        "phone_code": "+880",
+        "currency": "BDT",
+        "iso2": "BD",
+        "flag": "🇧🇩"
+    },
+    {
+        "name": "Barbados",
+        "name_ar": "باربادوس",
+        "phone_code": "+1246",
+        "currency": "BBD",
+        "iso2": "BB",
+        "flag": "🇧🇧"
+    },
+    {
+        "name": "Belarus",
+        "name_ar": "بيلاروس",
+        "phone_code": "+375",
+        "currency": "BYR",
+        "iso2": "BY",
+        "flag": "🇧🇾"
+    },
+    {
+        "name": "Belgium",
+        "name_ar": "بلجيكا",
+        "phone_code": "+32",
+        "currency": "EUR",
+        "iso2": "BE",
+        "flag": "🇧🇪"
+    },
+    {
+        "name": "Belize",
+        "name_ar": "بيليز",
+        "phone_code": "+501",
+        "currency": "BZD",
+        "iso2": "BZ",
+        "flag": "🇧🇿"
+    },
+    {
+        "name": "Benin",
+        "name_ar": "بنين",
+        "phone_code": "+229",
+        "currency": "XOF",
+        "iso2": "BJ",
+        "flag": "🇧🇯"
+    },
+    {
+        "name": "Bermuda",
+        "name_ar": "برمودا",
+        "phone_code": "+1441",
+        "currency": "BMD",
+        "iso2": "BM",
+        "flag": "🇧🇲"
+    },
+    {
+        "name": "Bhutan",
+        "name_ar": "بوتان",
+        "phone_code": "+975",
+        "currency": "BTN",
+        "iso2": "BT",
+        "flag": "🇧🇹"
+    },
+    {
+        "name": "Bolivia",
+        "name_ar": "بوليفيا",
+        "phone_code": "+591",
+        "currency": "BOB",
+        "iso2": "BO",
+        "flag": "🇧🇴"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "name_ar": "البوسنة والهرسك",
+        "phone_code": "+387",
+        "currency": "BAM",
+        "iso2": "BA",
+        "flag": "🇧🇦"
+    },
+    {
+        "name": "Botswana",
+        "name_ar": "بوتسوانا",
+        "phone_code": "+267",
+        "currency": "BWP",
+        "iso2": "BW",
+        "flag": "🇧🇼"
+    },
+    {
+        "name": "Brazil",
+        "name_ar": "البرازيل",
+        "phone_code": "+55",
+        "currency": "BRL",
+        "iso2": "BR",
+        "flag": "🇧🇷"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "name_ar": "إقليم المحيط الهندي البريطاني",
+        "phone_code": "+246",
+        "currency": "USD",
+        "iso2": "IO",
+        "flag": "🇮🇴"
+    },
+    {
+        "name": "Brunei",
+        "name_ar": "بروناي",
+        "phone_code": "+673",
+        "currency": "BND",
+        "iso2": "BN",
+        "flag": "🇧🇳"
+    },
+    {
+        "name": "Bulgaria",
+        "name_ar": "بلغاريا",
+        "phone_code": "+359",
+        "currency": "BGN",
+        "iso2": "BG",
+        "flag": "🇧🇬"
+    },
+    {
+        "name": "Burkina Faso",
+        "name_ar": "بوركينا فاسو",
+        "phone_code": "+226",
+        "currency": "XOF",
+        "iso2": "BF",
+        "flag": "🇧🇫"
+    },
+    {
+        "name": "Myanmar",
+        "name_ar": "ميانمار",
+        "phone_code": "+95",
+        "currency": "MMK",
+        "iso2": "MM",
+        "flag": "🇲🇲"
+    },
+    {
+        "name": "Burundi",
+        "name_ar": "بوروندي",
+        "phone_code": "+257",
+        "currency": "BIF",
+        "iso2": "BI",
+        "flag": "🇧🇮"
+    },
+    {
+        "name": "Cambodia",
+        "name_ar": "كامبوديا",
+        "phone_code": "+855",
+        "currency": "KHR",
+        "iso2": "KH",
+        "flag": "🇰🇭"
+    },
+    {
+        "name": "Cameroon",
+        "name_ar": "الكاميرون",
+        "phone_code": "+237",
+        "currency": "XAF",
+        "iso2": "CM",
+        "flag": "🇨🇲"
+    },
+    {
+        "name": "Canada",
+        "name_ar": "كندا",
+        "phone_code": "+1",
+        "currency": "CAD",
+        "iso2": "CA",
+        "flag": "🇨🇦"
+    },
+    {
+        "name": "Cape Verde",
+        "name_ar": "الرأس الأخضر",
+        "phone_code": "+238",
+        "currency": "CVE",
+        "iso2": "CV",
+        "flag": "🇨🇻"
+    },
+    {
+        "name": "Cayman Islands",
+        "name_ar": "جزر كايمان",
+        "phone_code": "+1345",
+        "currency": "KYD",
+        "iso2": "KY",
+        "flag": "🇰🇾"
+    },
+    {
+        "name": "Central African Republic",
+        "name_ar": "جمهورية أفريقيا الوسطى",
+        "phone_code": "+236",
+        "currency": "XAF",
+        "iso2": "CF",
+        "flag": "🇨🇫"
+    },
+    {
+        "name": "Chad",
+        "name_ar": "تشاد",
+        "phone_code": "+235",
+        "currency": "XAF",
+        "iso2": "TD",
+        "flag": "🇹🇩"
+    },
+    {
+        "name": "Christmas Island",
+        "name_ar": "جزيرة الكريسماس",
+        "phone_code": "+61",
+        "currency": "AUD",
+        "iso2": "CX",
+        "flag": "🇨🇽"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "name_ar": "جزر الكوكوس (كيلين)",
+        "phone_code": "+61",
+        "currency": "AUD",
+        "iso2": "CC",
+        "flag": "🇨🇨"
+    },
+    {
+        "name": "Cook Islands",
+        "name_ar": "جزر كوك",
+        "phone_code": "+682",
+        "currency": "NZD",
+        "iso2": "CK",
+        "flag": "🇨🇰"
+    },
+    {
+        "name": "Chile",
+        "name_ar": "تشيلي",
+        "phone_code": "+56",
+        "currency": "CLP",
+        "iso2": "CL",
+        "flag": "🇨🇱"
+    },
+    {
+        "name": "China",
+        "name_ar": "الصين",
+        "phone_code": "+86",
+        "currency": "CNY",
+        "iso2": "CN",
+        "flag": "🇨🇳"
+    },
+    {
+        "name": "Colombia",
+        "name_ar": "كولومبيا",
+        "phone_code": "+57",
+        "currency": "COP",
+        "iso2": "CO",
+        "flag": "🇨🇴"
+    },
+    {
+        "name": "Comoros",
+        "name_ar": "جزر القمر",
+        "phone_code": "+269",
+        "currency": "KMF",
+        "iso2": "KM",
+        "flag": "🇰🇲"
+    },
+    {
+        "name": "Congo",
+        "name_ar": "الكونغو",
+        "phone_code": "+242",
+        "currency": "XAF",
+        "iso2": "CG",
+        "flag": "🇨🇬"
+    },
+    {
+        "name": "Costa Rica",
+        "name_ar": "كوستاريكا",
+        "phone_code": "+506",
+        "currency": "CRC",
+        "iso2": "CR",
+        "flag": "🇨🇷"
+    },
+    {
+        "name": "Croatia",
+        "name_ar": "كرواتيا",
+        "phone_code": "+385",
+        "currency": "HRK",
+        "iso2": "HR",
+        "flag": "🇭🇷"
+    },
+    {
+        "name": "Cuba",
+        "name_ar": "كوبا",
+        "phone_code": "+53",
+        "currency": "CUP",
+        "iso2": "CU",
+        "flag": "🇨🇺"
+    },
+    {
+        "name": "Cyprus",
+        "name_ar": "قبرص",
+        "phone_code": "+357",
+        "currency": "EUR",
+        "iso2": "CY",
+        "flag": "🇨🇾"
+    },
+    {
+        "name": "Czech Republic",
+        "name_ar": "جمهورية التشيك",
+        "phone_code": "+420",
+        "currency": "CZK",
+        "iso2": "CZ",
+        "flag": "🇨🇿"
+    },
+    {
+        "name": "Denmark",
+        "name_ar": "الدانمارك",
+        "phone_code": "+45",
+        "currency": "DKK",
+        "iso2": "DK",
+        "flag": "🇩🇰"
+    },
+    {
+        "name": "Djibouti",
+        "name_ar": "جيبوتي",
+        "phone_code": "+253",
+        "currency": "DJF",
+        "iso2": "DJ",
+        "flag": "🇩🇯"
+    },
+    {
+        "name": "Dominica",
+        "name_ar": "دومينيكا",
+        "phone_code": "+1767",
+        "currency": "XCD",
+        "iso2": "DM",
+        "flag": "🇩🇲"
+    },
+    {
+        "name": "Dominican Republic",
+        "name_ar": "جمهورية الدومينيكان",
+        "phone_code": "+1849",
+        "currency": "DOP",
+        "iso2": "DO",
+        "flag": "🇩🇴"
+    },
+    {
+        "name": "Timor-Leste",
+        "name_ar": "تيمور الشرقية",
+        "phone_code": "+670",
+        "currency": "USD",
+        "iso2": "TL",
+        "flag": "🇹🇱"
+    },
+    {
+        "name": "Tokelau",
+        "name_ar": "توكيلاو",
+        "phone_code": "+690",
+        "currency": "NZD",
+        "iso2": "TK",
+        "flag": "🇹🇰"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "name_ar": "جزر تركس وكايكوس",
+        "phone_code": "+1649",
+        "currency": "USD",
+        "iso2": "TC",
+        "flag": "🇹🇨"
+    },
+    {
+        "name": "Ecuador",
+        "name_ar": "إكوادور",
+        "phone_code": "+593",
+        "currency": "USD",
+        "iso2": "EC",
+        "flag": "🇪🇨"
+    },
+    {
+        "name": "Egypt",
+        "name_ar": "مصر",
+        "phone_code": "+20",
+        "currency": "EGP",
+        "iso2": "EG",
+        "flag": "🇪🇬"
+    },
+    {
+        "name": "El Salvador",
+        "name_ar": "السلفادور",
+        "phone_code": "+503",
+        "currency": "USD",
+        "iso2": "SV",
+        "flag": "🇸🇻"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "name_ar": "غينيا الاستوائية",
+        "phone_code": "+240",
+        "currency": "XAF",
+        "iso2": "GQ",
+        "flag": "🇬🇶"
+    },
+    {
+        "name": "Eritrea",
+        "name_ar": "إريتريا",
+        "phone_code": "+291",
+        "currency": "ERN",
+        "iso2": "ER",
+        "flag": "🇪🇷"
+    },
+    {
+        "name": "Estonia",
+        "name_ar": "إستونيا",
+        "phone_code": "+372",
+        "currency": "EUR",
+        "iso2": "EE",
+        "flag": "🇪🇪"
+    },
+    {
+        "name": "Ethiopia",
+        "name_ar": "إثيوبيا",
+        "phone_code": "+251",
+        "currency": "ETB",
+        "iso2": "ET",
+        "flag": "🇪🇹"
+    },
+    {
+        "name": "Faroe Islands",
+        "name_ar": "جزر فايرو",
+        "phone_code": "+298",
+        "currency": "DKK",
+        "iso2": "FO",
+        "flag": "🇫🇴"
+    },
+    {
+        "name": "Falkland Islands",
+        "name_ar": "جزر فوكلاند",
+        "phone_code": "+500",
+        "currency": "FKP",
+        "iso2": "FK",
+        "flag": "🇫🇰"
+    },
+    {
+        "name": "Fiji",
+        "name_ar": "جزر فيجي",
+        "phone_code": "+679",
+        "currency": "FJD",
+        "iso2": "FJ",
+        "flag": "🇫🇯"
+    },
+    {
+        "name": "Finland",
+        "name_ar": "فنلندا",
+        "phone_code": "+358",
+        "currency": "EUR",
+        "iso2": "FI",
+        "flag": "🇫🇮"
+    },
+    {
+        "name": "France",
+        "name_ar": "فرنسا",
+        "phone_code": "+33",
+        "currency": "EUR",
+        "iso2": "FR",
+        "flag": "🇫🇷"
+    },
+    {
+        "name": "French Polynesia",
+        "name_ar": "بولينزيا الفرنسية",
+        "phone_code": "+689",
+        "currency": "XPF",
+        "iso2": "PF",
+        "flag": "🇵🇫"
+    },
+    {
+        "name": "Gabon",
+        "name_ar": "الجابون",
+        "phone_code": "+241",
+        "currency": "XAF",
+        "iso2": "GA",
+        "flag": "🇬🇦"
+    },
+    {
+        "name": "Gambia",
+        "name_ar": "جامبيا",
+        "phone_code": "+220",
+        "currency": "GMD",
+        "iso2": "GM",
+        "flag": "🇬🇲"
+    },
+    {
+        "name": "Georgia",
+        "name_ar": "جورجيا",
+        "phone_code": "+995",
+        "currency": "GEL",
+        "iso2": "GE",
+        "flag": "🇬🇪"
+    },
+    {
+        "name": "Gibraltar",
+        "name_ar": "جبل طارق",
+        "phone_code": "+350",
+        "currency": "GIP",
+        "iso2": "GI",
+        "flag": "🇬🇮"
+    },
+    {
+        "name": "Germany",
+        "name_ar": "ألمانيا",
+        "phone_code": "+49",
+        "currency": "EUR",
+        "iso2": "DE",
+        "flag": "🇩🇪"
+    },
+    {
+        "name": "Ghana",
+        "name_ar": "غانا",
+        "phone_code": "+233",
+        "currency": "GHS",
+        "iso2": "GH",
+        "flag": "🇬🇭"
+    },
+    {
+        "name": "Greece",
+        "name_ar": "اليونان",
+        "phone_code": "+30",
+        "currency": "EUR",
+        "iso2": "GR",
+        "flag": "🇬🇷"
+    },
+    {
+        "name": "Greenland",
+        "name_ar": "جرينلاند",
+        "phone_code": "+299",
+        "currency": "DKK",
+        "iso2": "GL",
+        "flag": "🇬🇱"
+    },
+    {
+        "name": "Guadeloupe",
+        "name_ar": "جواديلوب",
+        "phone_code": "+590",
+        "currency": "EUR",
+        "iso2": "GP",
+        "flag": "🇬🇵"
+    },
+    {
+        "name": "Grenada",
+        "name_ar": "غرينادا",
+        "phone_code": "+1473",
+        "currency": "XCD",
+        "iso2": "GD",
+        "flag": "🇬🇩"
+    },
+    {
+        "name": "Guernsey",
+        "name_ar": "جيرنزي",
+        "phone_code": "+44",
+        "currency": "GBP",
+        "iso2": "GG",
+        "flag": "🇬🇬"
+    },
+    {
+        "name": "Guatemala",
+        "name_ar": "جواتيمالا",
+        "phone_code": "+502",
+        "currency": "GTQ",
+        "iso2": "GT",
+        "flag": "🇬🇹"
+    },
+    {
+        "name": "Guam",
+        "name_ar": "جوام",
+        "phone_code": "+1671",
+        "currency": "USD",
+        "iso2": "GU",
+        "flag": "🇬🇺"
+    },
+    {
+        "name": "Guinea",
+        "name_ar": "غينيا",
+        "phone_code": "+224",
+        "currency": "GNF",
+        "iso2": "GN",
+        "flag": "🇬🇳"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "name_ar": "غينيا بيساو",
+        "phone_code": "+245",
+        "currency": "XOF",
+        "iso2": "GW",
+        "flag": "🇬🇼"
+    },
+    {
+        "name": "Guyana",
+        "name_ar": "جيانا",
+        "phone_code": "+592",
+        "currency": "GYD",
+        "iso2": "GY",
+        "flag": "🇬🇾"
+    },
+    {
+        "name": "Haiti",
+        "name_ar": "هايتي",
+        "phone_code": "+509",
+        "currency": "HTG",
+        "iso2": "HT",
+        "flag": "🇭🇹"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "name_ar": "جزيرة هيرد وجزر ماكدونالد",
+        "phone_code": "+ ",
+        "currency": "AUD",
+        "iso2": "HM",
+        "flag": "🇭🇲"
+    },
+    {
+        "name": "Jordan",
+        "name_ar": "الأردن",
+        "phone_code": "+962",
+        "currency": "JOD",
+        "iso2": "JO",
+        "flag": "🇯🇴"
+    },
+    {
+        "name": "Yemen",
+        "name_ar": "اليمن",
+        "phone_code": "+967",
+        "currency": "YER",
+        "iso2": "YE",
+        "flag": "🇾🇪"
+    },
+    {
+        "name": "Honduras",
+        "name_ar": "هندوراس",
+        "phone_code": "+504",
+        "currency": "HNL",
+        "iso2": "HN",
+        "flag": "🇭🇳"
+    },
+    {
+        "name": "Hong Kong",
+        "name_ar": "هونغ كونغ SAR",
+        "phone_code": "+852",
+        "currency": "HKD",
+        "iso2": "HK",
+        "flag": "🇭🇰"
+    },
+    {
+        "name": "Hungary",
+        "name_ar": "المجر",
+        "phone_code": "+36",
+        "currency": "HUF",
+        "iso2": "HU",
+        "flag": "🇭🇺"
+    },
+    {
+        "name": "Iceland",
+        "name_ar": "أيسلندا",
+        "phone_code": "+354",
+        "currency": "ISK",
+        "iso2": "IS",
+        "flag": "🇮🇸"
+    },
+    {
+        "name": "India",
+        "name_ar": "الهند",
+        "phone_code": "+91",
+        "currency": "INR",
+        "iso2": "IN",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Indonesia",
+        "name_ar": "إندونيسيا",
+        "phone_code": "+62",
+        "currency": "IDR",
+        "iso2": "ID",
+        "flag": "🇮🇩"
+    },
+    {
+        "name": "Iran",
+        "name_ar": "إيران",
+        "phone_code": "+98",
+        "currency": "IRR",
+        "iso2": "IR",
+        "flag": "🇮🇷"
+    },
+    {
+        "name": "Iraq",
+        "name_ar": "العراق",
+        "phone_code": "+964",
+        "currency": "IQD",
+        "iso2": "IQ",
+        "flag": "🇮🇶"
+    },
+    {
+        "name": "Ireland",
+        "name_ar": "أيرلندا",
+        "phone_code": "+353",
+        "currency": "EUR",
+        "iso2": "IE",
+        "flag": "🇮🇪"
+    },
+    {
+        "name": "Isle of Man",
+        "name_ar": "جزيرة مان",
+        "phone_code": "+44",
+        "currency": "GBP",
+        "iso2": "IM",
+        "flag": "🇮🇲"
+    },
+    {
+        "name": "Palestine",
+        "name_ar": "فلسطين",
+        "phone_code": "+970",
+        "currency": "ILS",
+        "iso2": "PS",
+        "flag": "🇵🇸"
+    },
+    {
+        "name": "Israel",
+        "name_ar": "إسرائيل",
+        "phone_code": "+972",
+        "currency": "ILS",
+        "iso2": "IL",
+        "flag": "🇮🇱"
+    },
+    {
+        "name": "Italy",
+        "name_ar": "إيطاليا",
+        "phone_code": "+39",
+        "currency": "EUR",
+        "iso2": "IT",
+        "flag": "🇮🇹"
+    },
+    {
+        "name": "Ivory Coast",
+        "name_ar": "كوت ديفوار",
+        "phone_code": "+225",
+        "currency": "XOF",
+        "iso2": "CI",
+        "flag": "🇨🇮"
+    },
+    {
+        "name": "Jamaica",
+        "name_ar": "جامايكا",
+        "phone_code": "+1876",
+        "currency": "JMD",
+        "iso2": "JM",
+        "flag": "🇯🇲"
+    },
+    {
+        "name": "Jersey",
+        "name_ar": "جيرسي",
+        "phone_code": "+44",
+        "currency": "GBP",
+        "iso2": "JE",
+        "flag": "🇯🇪"
+    },
+    {
+        "name": "Japan",
+        "name_ar": "اليابان",
+        "phone_code": "+81",
+        "currency": "JPY",
+        "iso2": "JP",
+        "flag": "🇯🇵"
+    },
+    {
+        "name": "Kazakhstan",
+        "name_ar": "كازاخستان",
+        "phone_code": "+7",
+        "currency": "KZT",
+        "iso2": "KZ",
+        "flag": "🇰🇿"
+    },
+    {
+        "name": "Kenya",
+        "name_ar": "كينيا",
+        "phone_code": "+254",
+        "currency": "KES",
+        "iso2": "KE",
+        "flag": "🇰🇪"
+    },
+    {
+        "name": "Kiribati",
+        "name_ar": "كيريباتي",
+        "phone_code": "+686",
+        "currency": "AUD",
+        "iso2": "KI",
+        "flag": "🇰🇮"
+    },
+    {
+        "name": "North Korea",
+        "name_ar": "كوريا الشمالية",
+        "phone_code": "+850",
+        "currency": "KPW",
+        "iso2": "KP",
+        "flag": "🇰🇵"
+    },
+    {
+        "name": "Kosovo",
+        "name_ar": "كوسوفو",
+        "phone_code": "+383",
+        "currency": "EUR",
+        "iso2": "XK",
+        "flag": "🇽🇰"
+    },
+    {
+        "name": "Kuwait",
+        "name_ar": "الكويت",
+        "phone_code": "+965",
+        "currency": "KWD",
+        "iso2": "KW",
+        "flag": "🇰🇼"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "name_ar": "قيرقيزستان",
+        "phone_code": "+996",
+        "currency": "KGS",
+        "iso2": "KG",
+        "flag": "🇰🇬"
+    },
+    {
+        "name": "Laos",
+        "name_ar": "لاوس",
+        "phone_code": "+856",
+        "currency": "LAK",
+        "iso2": "LA",
+        "flag": "🇱🇦"
+    },
+    {
+        "name": "Latvia",
+        "name_ar": "لاتفيا",
+        "phone_code": "+371",
+        "currency": "EUR",
+        "iso2": "LV",
+        "flag": "🇱🇻"
+    },
+    {
+        "name": "Lebanon",
+        "name_ar": "لبنان",
+        "phone_code": "+961",
+        "currency": "LBP",
+        "iso2": "LB",
+        "flag": "🇱🇧"
+    },
+    {
+        "name": "Lesotho",
+        "name_ar": "ليسوتو",
+        "phone_code": "+266",
+        "currency": "LSL",
+        "iso2": "LS",
+        "flag": "🇱🇸"
+    },
+    {
+        "name": "Liberia",
+        "name_ar": "ليبيريا",
+        "phone_code": "+231",
+        "currency": "LRD",
+        "iso2": "LR",
+        "flag": "🇱🇷"
+    },
+    {
+        "name": "Libya",
+        "name_ar": "ليبيا",
+        "phone_code": "+218",
+        "currency": "LYD",
+        "iso2": "LY",
+        "flag": "🇱🇾"
+    },
+    {
+        "name": "Liechtenstein",
+        "name_ar": "لختنشتاين",
+        "phone_code": "+423",
+        "currency": "CHF",
+        "iso2": "LI",
+        "flag": "🇱🇮"
+    },
+    {
+        "name": "Luxembourg",
+        "name_ar": "لوكسمبورج",
+        "phone_code": "+352",
+        "currency": "EUR",
+        "iso2": "LU",
+        "flag": "🇱🇺"
+    },
+    {
+        "name": "Macedonia",
+        "name_ar": "مقدونيا",
+        "phone_code": "+389",
+        "currency": "MKD",
+        "iso2": "MK",
+        "flag": "🇲🇰"
+    },
+    {
+        "name": "Madagascar",
+        "name_ar": "مدغشقر",
+        "phone_code": "+261",
+        "currency": "MGA",
+        "iso2": "MG",
+        "flag": "🇲🇬"
+    },
+    {
+        "name": "Marshall Islands",
+        "name_ar": "جزر مارشال",
+        "phone_code": "+692",
+        "currency": "USD",
+        "iso2": "MH",
+        "flag": "🇲🇭"
+    },
+    {
+        "name": "Macau",
+        "name_ar": "ماكاو",
+        "phone_code": "+853",
+        "currency": "MOP",
+        "iso2": "MO",
+        "flag": "🇲🇴"
+    },
+    {
+        "name": "Malawi",
+        "name_ar": "مالاوي",
+        "phone_code": "+265",
+        "currency": "MWK",
+        "iso2": "MW",
+        "flag": "🇲🇼"
+    },
+    {
+        "name": "Malaysia",
+        "name_ar": "ماليزيا",
+        "phone_code": "+60",
+        "currency": "MYR",
+        "iso2": "MY",
+        "flag": "🇲🇾"
+    },
+    {
+        "name": "Maldives",
+        "name_ar": "جزر المالديف",
+        "phone_code": "+960",
+        "currency": "MVR",
+        "iso2": "MV",
+        "flag": "🇲🇻"
+    },
+    {
+        "name": "Mali",
+        "name_ar": "مالي",
+        "phone_code": "+223",
+        "currency": "XOF",
+        "iso2": "ML",
+        "flag": "🇲🇱"
+    },
+    {
+        "name": "Malta",
+        "name_ar": "مالطا",
+        "phone_code": "+356",
+        "currency": "EUR",
+        "iso2": "MT",
+        "flag": "🇲🇹"
+    },
+    {
+        "name": "Martinique",
+        "name_ar": "مارتينيك",
+        "phone_code": "+596",
+        "currency": "EUR",
+        "iso2": "MQ",
+        "flag": "🇲🇶"
+    },
+    {
+        "name": "Mauritania",
+        "name_ar": "موريتانيا",
+        "phone_code": "+222",
+        "currency": "MRO",
+        "iso2": "MR",
+        "flag": "🇲🇷"
+    },
+    {
+        "name": "Mauritius",
+        "name_ar": "موريشيوس",
+        "phone_code": "+230",
+        "currency": "MUR",
+        "iso2": "MU",
+        "flag": "🇲🇺"
+    },
+    {
+        "name": "Mayotte",
+        "name_ar": "مايوت",
+        "phone_code": "+262",
+        "currency": "EUR",
+        "iso2": "YT",
+        "flag": "🇾🇹"
+    },
+    {
+        "name": "Mexico",
+        "name_ar": "المكسيك",
+        "phone_code": "+52",
+        "currency": "MXN",
+        "iso2": "MX",
+        "flag": "🇲🇽"
+    },
+    {
+        "name": "Moldova",
+        "name_ar": "مولدوفا",
+        "phone_code": "+373",
+        "currency": "MDL",
+        "iso2": "MD",
+        "flag": "🇲🇩"
+    },
+    {
+        "name": "Mongolia",
+        "name_ar": "منغوليا",
+        "phone_code": "+976",
+        "currency": "MNT",
+        "iso2": "MN",
+        "flag": "🇲🇳"
+    },
+    {
+        "name": "Montenegro",
+        "name_ar": "مونتينيغرو",
+        "phone_code": "+382",
+        "currency": "EUR",
+        "iso2": "ME",
+        "flag": "🇲🇪"
+    },
+    {
+        "name": "Monaco",
+        "name_ar": "موناكو",
+        "phone_code": "+377",
+        "currency": "EUR",
+        "iso2": "MC",
+        "flag": "🇲🇨"
+    },
+    {
+        "name": "Montserrat",
+        "name_ar": "مونتسيرات",
+        "phone_code": "+1664",
+        "currency": "XCD",
+        "iso2": "MS",
+        "flag": "🇲🇸"
+    },
+    {
+        "name": "Morocco",
+        "name_ar": "المغرب",
+        "phone_code": "+212",
+        "currency": "MAD",
+        "iso2": "MA",
+        "flag": "🇲🇦"
+    },
+    {
+        "name": "Mozambique",
+        "name_ar": "موزمبيق",
+        "phone_code": "+258",
+        "currency": "MZN",
+        "iso2": "MZ",
+        "flag": "🇲🇿"
+    },
+    {
+        "name": "Namibia",
+        "name_ar": "ناميبيا",
+        "phone_code": "+264",
+        "currency": "NAD",
+        "iso2": "NA",
+        "flag": "🇳🇦"
+    },
+    {
+        "name": "Nauru",
+        "name_ar": "ناورو",
+        "phone_code": "+674",
+        "currency": "AUD",
+        "iso2": "NR",
+        "flag": "🇳🇷"
+    },
+    {
+        "name": "Nepal",
+        "name_ar": "نيبال",
+        "phone_code": "+977",
+        "currency": "NPR",
+        "iso2": "NP",
+        "flag": "🇳🇵"
+    },
+    {
+        "name": "Netherlands",
+        "name_ar": "هولندا",
+        "phone_code": "+31",
+        "currency": "EUR",
+        "iso2": "NL",
+        "flag": "🇳🇱"
+    },
+    {
+        "name": "New Caledonia",
+        "name_ar": "كاليدونيا الجديدة",
+        "phone_code": "+687",
+        "currency": "XPF",
+        "iso2": "NC",
+        "flag": "🇳🇨"
+    },
+    {
+        "name": "New Zealand",
+        "name_ar": "نيوزيلندا",
+        "phone_code": "+64",
+        "currency": "NZD",
+        "iso2": "NZ",
+        "flag": "🇳🇿"
+    },
+    {
+        "name": "Nicaragua",
+        "name_ar": "نيكاراجوا",
+        "phone_code": "+505",
+        "currency": "NIO",
+        "iso2": "NI",
+        "flag": "🇳🇮"
+    },
+    {
+        "name": "Niger",
+        "name_ar": "النيجر",
+        "phone_code": "+227",
+        "currency": "XOF",
+        "iso2": "NE",
+        "flag": "🇳🇪"
+    },
+    {
+        "name": "Nigeria",
+        "name_ar": "نيجيريا",
+        "phone_code": "+234",
+        "currency": "NGN",
+        "iso2": "NG",
+        "flag": "🇳🇬"
+    },
+    {
+        "name": "Norway",
+        "name_ar": "النرويج",
+        "phone_code": "+47",
+        "currency": "NOK",
+        "iso2": "NO",
+        "flag": "🇳🇴"
+    },
+    {
+        "name": "Niue",
+        "name_ar": "نيوا",
+        "phone_code": "+683",
+        "currency": "NZD",
+        "iso2": "NU",
+        "flag": "🇳🇺"
+    },
+    {
+        "name": "Norfolk Island",
+        "name_ar": "جزيرة نورفوك",
+        "phone_code": "+672",
+        "currency": "AUD",
+        "iso2": "NF",
+        "flag": "🇳🇫"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "name_ar": "جزر ماريانا الشمالية",
+        "phone_code": "+1670",
+        "currency": "USD",
+        "iso2": "MP",
+        "flag": "🇲🇵"
+    },
+    {
+        "name": "Oman",
+        "name_ar": "عمان",
+        "phone_code": "+968",
+        "currency": "OMR",
+        "iso2": "OM",
+        "flag": "🇴🇲"
+    },
+    {
+        "name": "Pakistan",
+        "name_ar": "باكستان",
+        "phone_code": "+92",
+        "currency": "PKR",
+        "iso2": "PK",
+        "flag": "🇵🇰"
+    },
+    {
+        "name": "Pitcairn",
+        "name_ar": "جزر البتكارين",
+        "phone_code": "+870",
+        "currency": "NZD",
+        "iso2": "PN",
+        "flag": "🇵🇳"
+    },
+    {
+        "name": "Palau",
+        "name_ar": "بالاو",
+        "phone_code": "+680",
+        "currency": "USD",
+        "iso2": "PW",
+        "flag": "🇵🇼"
+    },
+    {
+        "name": "Panama",
+        "name_ar": "بنما",
+        "phone_code": "+507",
+        "currency": "PAB",
+        "iso2": "PA",
+        "flag": "🇵🇦"
+    },
+    {
+        "name": "Papua New Guinea",
+        "name_ar": "بابوا-غينيا الجديدة",
+        "phone_code": "+675",
+        "currency": "PGK",
+        "iso2": "PG",
+        "flag": "🇵🇬"
+    },
+    {
+        "name": "Paraguay",
+        "name_ar": "باراجواي",
+        "phone_code": "+595",
+        "currency": "PYG",
+        "iso2": "PY",
+        "flag": "🇵🇾"
+    },
+    {
+        "name": "Peru",
+        "name_ar": "بيرو",
+        "phone_code": "+51",
+        "currency": "PEN",
+        "iso2": "PE",
+        "flag": "🇵🇪"
+    },
+    {
+        "name": "Philippines",
+        "name_ar": "الفلبين",
+        "phone_code": "+63",
+        "currency": "PHP",
+        "iso2": "PH",
+        "flag": "🇵🇭"
+    },
+    {
+        "name": "Poland",
+        "name_ar": "بولندا",
+        "phone_code": "+48",
+        "currency": "PLN",
+        "iso2": "PL",
+        "flag": "🇵🇱"
+    },
+    {
+        "name": "Portugal",
+        "name_ar": "البرتغال",
+        "phone_code": "+351",
+        "currency": "EUR",
+        "iso2": "PT",
+        "flag": "🇵🇹"
+    },
+    {
+        "name": "Puerto Rico",
+        "name_ar": "بورتو ريكو",
+        "phone_code": "+1939",
+        "currency": "USD",
+        "iso2": "PR",
+        "flag": "🇵🇷"
+    },
+    {
+        "name": "South Korea",
+        "name_ar": "كوريا",
+        "phone_code": "+82",
+        "currency": "KRW",
+        "iso2": "KR",
+        "flag": "🇰🇷"
+    },
+    {
+        "name": "Lithuania",
+        "name_ar": "ليتوانيا",
+        "phone_code": "+370",
+        "currency": "LTL",
+        "iso2": "LT",
+        "flag": "🇱🇹"
+    },
+    {
+        "name": "Qatar",
+        "name_ar": "قطر",
+        "phone_code": "+974",
+        "currency": "QAR",
+        "iso2": "QA",
+        "flag": "🇶🇦"
+    },
+    {
+        "name": "Romania",
+        "name_ar": "رومانيا",
+        "phone_code": "+40",
+        "currency": "RON",
+        "iso2": "RO",
+        "flag": "🇷🇴"
+    },
+    {
+        "name": "Russia",
+        "name_ar": "روسيا",
+        "phone_code": "+7",
+        "currency": "RUB",
+        "iso2": "RU",
+        "flag": "🇷🇺"
+    },
+    {
+        "name": "Rwanda",
+        "name_ar": "رواندا",
+        "phone_code": "+250",
+        "currency": "RWF",
+        "iso2": "RW",
+        "flag": "🇷🇼"
+    },
+    {
+        "name": "Réunion",
+        "name_ar": "ريونيون",
+        "phone_code": "+262",
+        "currency": "EUR",
+        "iso2": "RE",
+        "flag": "🇷🇪"
+    },
+    {
+        "name": "Samoa",
+        "name_ar": "ساموا",
+        "phone_code": "+685",
+        "currency": "WST",
+        "iso2": "WS",
+        "flag": "🇼🇸"
+    },
+    {
+        "name": "Saint Lucia",
+        "name_ar": "سانت لوشيا",
+        "phone_code": "+1758",
+        "currency": "XCD",
+        "iso2": "LC",
+        "flag": "🇱🇨"
+    },
+    {
+        "name": "San Marino",
+        "name_ar": "سان مارينو",
+        "phone_code": "+378",
+        "currency": "EUR",
+        "iso2": "SM",
+        "flag": "🇸🇲"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "name_ar": "سانت كيتس ونيفيس",
+        "phone_code": "+1869",
+        "currency": "XCD",
+        "iso2": "KN",
+        "flag": "🇰🇳"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "name_ar": "سانت بيير وميكولون",
+        "phone_code": "+508",
+        "currency": "EUR",
+        "iso2": "PM",
+        "flag": "🇵🇲"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "name_ar": "سانت فينسنت وجرينادينز",
+        "phone_code": "+1784",
+        "currency": "XCD",
+        "iso2": "VC",
+        "flag": "🇻🇨"
+    },
+    {
+        "name": "Saudi Arabia",
+        "name_ar": "السعودية",
+        "phone_code": "+966",
+        "currency": "SAR",
+        "iso2": "SA",
+        "flag": "🇸🇦"
+    },
+    {
+        "name": "Senegal",
+        "name_ar": "السنغال",
+        "phone_code": "+221",
+        "currency": "XOF",
+        "iso2": "SN",
+        "flag": "🇸🇳"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "name_ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+        "phone_code": "+500",
+        "currency": "GBP",
+        "iso2": "GS",
+        "flag": "🇬🇸"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "name_ar": "ساوتوماي وبرينسيبا",
+        "phone_code": "+239",
+        "currency": "STD",
+        "iso2": "ST",
+        "flag": "🇸🇹"
+    },
+    {
+        "name": "Sierra Leone",
+        "name_ar": "سيراليون",
+        "phone_code": "+232",
+        "currency": "SLL",
+        "iso2": "SL",
+        "flag": "🇸🇱"
+    },
+    {
+        "name": "Serbia",
+        "name_ar": "صربيا",
+        "phone_code": "+381",
+        "currency": "RSD",
+        "iso2": "RS",
+        "flag": "🇷🇸"
+    },
+    {
+        "name": "Seychelles",
+        "name_ar": "سيشل",
+        "phone_code": "+248",
+        "currency": "SCR",
+        "iso2": "SC",
+        "flag": "🇸🇨"
+    },
+    {
+        "name": "Singapore",
+        "name_ar": "سنغافورة",
+        "phone_code": "+65",
+        "currency": "SGD",
+        "iso2": "SG",
+        "flag": "🇸🇬"
+    },
+    {
+        "name": "Slovakia",
+        "name_ar": "سلوفاكيا",
+        "phone_code": "+421",
+        "currency": "EUR",
+        "iso2": "SK",
+        "flag": "🇸🇰"
+    },
+    {
+        "name": "Slovenia",
+        "name_ar": "سلوفينيا",
+        "phone_code": "+386",
+        "currency": "EUR",
+        "iso2": "SI",
+        "flag": "🇸🇮"
+    },
+    {
+        "name": "Solomon Islands",
+        "name_ar": "جزر سولومون",
+        "phone_code": "+677",
+        "currency": "SBD",
+        "iso2": "SB",
+        "flag": "🇸🇧"
+    },
+    {
+        "name": "Somalia",
+        "name_ar": "الصومال",
+        "phone_code": "+252",
+        "currency": "SOS",
+        "iso2": "SO",
+        "flag": "🇸🇴"
+    },
+    {
+        "name": "South Africa",
+        "name_ar": "جنوب أفريقيا",
+        "phone_code": "+27",
+        "currency": "ZAR",
+        "iso2": "ZA",
+        "flag": "🇿🇦"
+    },
+    {
+        "name": "Spain",
+        "name_ar": "أسبانيا",
+        "phone_code": "+34",
+        "currency": "EUR",
+        "iso2": "ES",
+        "flag": "🇪🇸"
+    },
+    {
+        "name": "Sri Lanka",
+        "name_ar": "سيريلانكا",
+        "phone_code": "+94",
+        "currency": "LKR",
+        "iso2": "LK",
+        "flag": "🇱🇰"
+    },
+    {
+        "name": "Sudan",
+        "name_ar": "السودان",
+        "phone_code": "+249",
+        "currency": "SDG",
+        "iso2": "SD",
+        "flag": "🇸🇩"
+    },
+    {
+        "name": "Suriname",
+        "name_ar": "سورينام",
+        "phone_code": "+597",
+        "currency": "SRD",
+        "iso2": "SR",
+        "flag": "🇸🇷"
+    },
+    {
+        "name": "Swaziland",
+        "name_ar": "سوازيلاند",
+        "phone_code": "+268",
+        "currency": "SZL",
+        "iso2": "SZ",
+        "flag": "🇸🇿"
+    },
+    {
+        "name": "Sweden",
+        "name_ar": "السويد",
+        "phone_code": "+46",
+        "currency": "SEK",
+        "iso2": "SE",
+        "flag": "🇸🇪"
+    },
+    {
+        "name": "Switzerland",
+        "name_ar": "سويسرا",
+        "phone_code": "+41",
+        "currency": "CHF",
+        "iso2": "CH",
+        "flag": "🇨🇭"
+    },
+    {
+        "name": "Syria",
+        "name_ar": "سوريا",
+        "phone_code": "+963",
+        "currency": "SYP",
+        "iso2": "SY",
+        "flag": "🇸🇾"
+    },
+    {
+        "name": "Taiwan",
+        "name_ar": "تايوان",
+        "phone_code": "+886",
+        "currency": "TWD",
+        "iso2": "TW",
+        "flag": "🇹🇼"
+    },
+    {
+        "name": "Tanzania",
+        "name_ar": "تنزانيا",
+        "phone_code": "+255",
+        "currency": "TZS",
+        "iso2": "TZ",
+        "flag": "🇹🇿"
+    },
+    {
+        "name": "Thailand",
+        "name_ar": "تايلاند",
+        "phone_code": "+66",
+        "currency": "THB",
+        "iso2": "TH",
+        "flag": "🇹🇭"
+    },
+    {
+        "name": "Togo",
+        "name_ar": "توجو",
+        "phone_code": "+228",
+        "currency": "XOF",
+        "iso2": "TG",
+        "flag": "🇹🇬"
+    },
+    {
+        "name": "Tonga",
+        "name_ar": "تونجا",
+        "phone_code": "+676",
+        "currency": "TOP",
+        "iso2": "TO",
+        "flag": "🇹🇴"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "name_ar": "ترينيداد وتوباجو",
+        "phone_code": "+1868",
+        "currency": "TTD",
+        "iso2": "TT",
+        "flag": "🇹🇹"
+    },
+    {
+        "name": "Tunisia",
+        "name_ar": "تونس",
+        "phone_code": "+216",
+        "currency": "TND",
+        "iso2": "TN",
+        "flag": "🇹🇳"
+    },
+    {
+        "name": "Turkey",
+        "name_ar": "تركيا",
+        "phone_code": "+90",
+        "currency": "TRY",
+        "iso2": "TR",
+        "flag": "🇹🇷"
+    },
+    {
+        "name": "Turkmenistan",
+        "name_ar": "تركمانستان",
+        "phone_code": "+993",
+        "currency": "TMT",
+        "iso2": "TM",
+        "flag": "🇹🇲"
+    },
+    {
+        "name": "Uganda",
+        "name_ar": "أوغندا",
+        "phone_code": "+256",
+        "currency": "UGX",
+        "iso2": "UG",
+        "flag": "🇺🇬"
+    },
+    {
+        "name": "Ukraine",
+        "name_ar": "أوكرانيا",
+        "phone_code": "+380",
+        "currency": "UAH",
+        "iso2": "UA",
+        "flag": "🇺🇦"
+    },
+    {
+        "name": "United Arab Emirates",
+        "name_ar": "الإمارات",
+        "phone_code": "+971",
+        "currency": "AED",
+        "iso2": "AE",
+        "flag": "🇦🇪"
+    },
+    {
+        "name": "United Kingdom",
+        "name_ar": "المملكة المتحدة",
+        "phone_code": "+44",
+        "currency": "GBP",
+        "iso2": "GB",
+        "flag": "🇬🇧"
+    },
+    {
+        "name": "United States",
+        "name_ar": "الولايات المتحدة",
+        "phone_code": "+1",
+        "currency": "USD",
+        "iso2": "US",
+        "flag": "🇺🇸"
+    }
+]

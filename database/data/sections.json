@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "en": "Digital Marketing Strategies",
+            "ar": "استراتيجيات التسويق الرقمي"
+        },
+        "course_id": 1
+    },
+    {
+        "id": 2,
+        "title": {
+            "en": "Social Media Marketing",
+            "ar": "تسويق عبر وسائل التواصل الاجتماعي"
+        },
+        "course_id": 2
+    },
+    {
+        "id": 3,
+        "title": {
+            "en": "Content Marketing",
+            "ar": "تسويق المحتوى"
+        },
+        "course_id": 3
+    },
+    {
+        "id": 4,
+        "title": {
+            "en": "SEO Fundamentals",
+            "ar": "أساسيات تحسين محركات البحث"
+        },
+        "course_id": 4
+    },
+    {
+        "id": 5,
+        "title": {
+            "en": "Email Marketing",
+            "ar": "تسويق عبر البريد الإلكتروني"
+        },
+        "course_id": 5
+    }
+]
